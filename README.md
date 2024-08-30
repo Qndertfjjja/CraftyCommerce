@@ -1,0 +1,1 @@
+It is a e-commerce platform for selling the handcrated goods.
